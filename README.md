@@ -6,6 +6,6 @@ An online version of the code can be found [here](https://trinket.io/glowscript/
 
 ### Results
 The result is a 3-dimensional sierpinski pyramid with over 10,000 points:
-![Sierpinski Pyramid](https://drive.google.com/file/d/1-xmWGuAFwjONGjCBtOU81uBiT_C3_EwD/view?usp=sharing)
+![Sierpinski Pyramid](https://drive.google.com/file/d/1-xmWGuAFwjONGjCBtOU81uBiT_C3_EwD/view?usp=sharinghttps://drive.google.com/file/d/1-xmWGuAFwjONGjCBtOU81uBiT_C3_EwD/view?usp=sharing)
 
 
